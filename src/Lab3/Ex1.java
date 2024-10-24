@@ -99,3 +99,6 @@ class Parabola {
         }
     }
 }
+
+
+//la test o sa fie similar cu a doua problema
